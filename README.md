@@ -1,2 +1,4 @@
-# assignment2-NULI
-This a repository created for lab assignment 2
+# SWATHI NULI
+###### Favourite museum to visit is Louvre museum.
+
+**Mona Lisa** painting by the artist **Leonardo Da Vinci** is a must see exhibit in the museum.
