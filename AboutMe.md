@@ -21,15 +21,15 @@ I like travelling to various places and exploring their food and cultures.
 ---
 <br>
 
-> "Discipline is the bridge between goal and accomplishment." 
+> ***"Discipline is the bridge between goal and accomplishment."***
 
-**~ Emilia Earhart**
+~ Emilia Earhart
 
 <br>
 
->"Difficult roads often lead to beautiful destinations"
+>***"Difficult roads often lead to beautiful destinations."***
 
-**~ Abraham Lincoln**
+~ Abraham Lincoln
 
 ---
 >Why is **em** not behaving as defined ?
