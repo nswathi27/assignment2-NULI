@@ -21,6 +21,8 @@ I like travelling to various places and exploring their food and cultures.
 ---
 <br>
 
+## Motivational Quotes :
+
 > ***"Discipline is the bridge between goal and accomplishment."***
 
 ~ Emilia Earhart
